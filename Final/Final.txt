@@ -1,1 +1,1 @@
-Alineamiento usando Matriz de Puntuación y Matriz de Punteros. Autor: Sanchita Saha Ray (2016)
+Alineamiento usando Matriz de Puntuación y Matriz de Punteros. Autor del Paper: Sanchita Saha Ray (2016)
